@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a Senior Mobile App Developer with 10+ years of experience delivering high-quality, scalable mobile applications using Flutter and FlutterFlow. I specialize in building modern, responsive, and performance-optimized cross-platform apps for both Android and iOS.
+
+Whether you're looking to launch an MVP, modernize an existing app, or integrate backend systems, I can help bring your vision to life with clean architecture and intuitive UI/UX. My focus is on delivering production-ready apps that meet both user and business goals.
+
+I work closely with clients to ensure transparent communication, efficient development cycles, and timely delivery. Let’s create something exceptional!
